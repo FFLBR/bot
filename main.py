@@ -9,7 +9,7 @@ from aiogram.exceptions import TelegramForbiddenError
 from motor.motor_asyncio import AsyncIOMotorClient
 
 # --- КОНФИГУРАЦИЯ ---
-API_TOKEN = '8708528114:AAE2o48onjYjZGrEGJXwPwZC3yYAVSwqI6k'
+API_TOKEN = '8708528114:AAHjwxoLGKa7kt5PIqHNBDoGRtR5Z7zJKUc'
 ADMIN_ID = 1470008106
 MONGO_URL = "mongodb+srv://verholancevg_db_user:nSKwzPzbPHa4Haui@cluster0.59qdy3c.mongodb.net/?appName=Cluster0"
 
